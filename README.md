@@ -11,3 +11,22 @@ An end-to-end DevSecOps pipeline that automates code quality analysis, vulnerabi
 - Docker Image Build and Push
 - Automated Kubernetes Deployment
 - Security Gate Enforcement
+
+## Architecture Diagram
+
+(Add architecture image here)
+
+## Technology Stack
+
+## Project Structure
+
+## Deployment Steps
+
+## Security Considerations
+
+## Future Enhancements
+
+## Screenshots
+
+## Author
+Garv Garg
